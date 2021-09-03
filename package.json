@@ -11,7 +11,7 @@
     "connected-react-router": "^6.8.0",
     "event-emitter3": "^1.0.4",
     "history": "^4.10.1",
-    "immer": "^6.0.3",
+    "immer": "^9.0.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
